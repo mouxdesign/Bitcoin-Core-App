@@ -213,3 +213,22 @@ Next to those larger areas people found on a smaller scale the following to be f
 - Development process
 - Output descriptors
 - Ordinal use
+
+## Conclusion and reccomendations
+
+The interviews provided some ginsight into the push that drove people to use Bitcoin Core in the first place, the biggest pushes being pure curiosity as well as node running. It also revealed that the current user base consists mostly of experienced bitcoiners most of which have used a wallet for over four years and have multiple wallets for different use cases, with Sparrow being  the most popular. 
+
+Common concerns during while using the software included the time taken to sync and a lack of understanding of the software. 
+
+Some recommendations based on the research would be:
+- Visualization: 
+1. Addresses: Show users all the bitcoin addresses that they have
+2. Transactions: Expand the transaction information and allow users to add in transaction notes
+3. Visualization: Show users a visual construction of the transaction which they are making
+
+The visualization of transactions as well as a wallet generally being easy to use is what makes users feel in control when using a bitcon wallet.
+
+The top 2 reasons that bitcoin core was being used was for node running as well as to access blockchain data. Further research to understand the needs of node runners as well as what blockchain data is being used would further support this project in understanding its users.
+
+We would like to thank everyone involved in the research sprint. Many helped to conduct interviews and the process was very much a community effort. 
+
