@@ -94,9 +94,28 @@ Links to resources:
 - [Raw transcript](https://docs.google.com/document/d/1MoIRqlaKiNR-NqBYU1nrCorhGlopCtCKDiZbcsX8ddM/edit)
 
 ### Current and potential user interviews
-This initiative was to understand both current as well as potential users of the Bitcoin Core App. One on one interviews were done to understand the pushes, pulls as well as use cases of people using Bitcoin Core.
+In June 2023 interviews were done with both current and potential users of Bitcoin Core App. The purpose of the sprint was to provide insight into:
+- Why did people start to use Bitcoin Core
+- Charactersitcs of the current user base
+- Concerns of current and potential users
+- The main use cases
+
+We discovered that the biggest pushes were curiosity as well as running a node. It also revealed that the current user base consists mostly of experienced bitcoiners most of which have used a wallet for over four years and have multiple wallets for different use cases, with Sparrow being  the most popular. 
+
+Common concerns while using the software included the time taken to sync and a lack of understanding of the software. 
+
+Some recommendations based on the research would be:
+- Visualization: 
+1. Addresses: Show users all the bitcoin addresses that they have
+2. Transactions: Expand the transaction information and allow users to add in transaction notes
+3. Visualization: Show users a visual construction of the transaction which they are making
+
+The visualization of transactions as well as a wallet generally being easy to use is what makes users feel in control when using a bitcon wallet.
+
+The top 2 reasons that Bitcoin Core was being used was for node running as well as to access blockchain data. 
 
 Links to resources:
+- [Research report full](https://github.com/BitcoinDesign/Bitcoin-Core-App/issues/105#issuecomment-2079017484)
 - [Research plan](https://docs.google.com/document/d/1UhDR1K9q4y5zEuACdUZe3cLvYSIRfL71BUetqNgnLPM/edit?usp=sharing)
 - [Current user script](https://docs.google.com/document/d/1fbjGQMWDoMNKcBvZz4lbh_AWo3p5X_LTEerAgFaGBVI/edit)
 - [Potential user script](https://docs.google.com/document/d/1fbjGQMWDoMNKcBvZz4lbh_AWo3p5X_LTEerAgFaGBVI/edit)

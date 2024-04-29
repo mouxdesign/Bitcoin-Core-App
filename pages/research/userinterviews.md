@@ -216,7 +216,7 @@ Next to those larger areas people found on a smaller scale the following to be f
 
 ## Conclusion and reccomendations
 
-The interviews provided some ginsight into the push that drove people to use Bitcoin Core in the first place, the biggest pushes being pure curiosity as well as node running. It also revealed that the current user base consists mostly of experienced bitcoiners most of which have used a wallet for over four years and have multiple wallets for different use cases, with Sparrow being  the most popular. 
+The interviews provided some insight into the push that drove people to use Bitcoin Core in the first place, the biggest pushes being pure curiosity as well as node running. It also revealed that the current user base consists mostly of experienced bitcoiners most of which have used a wallet for over four years and have multiple wallets for different use cases, with Sparrow being  the most popular. 
 
 Common concerns during while using the software included the time taken to sync and a lack of understanding of the software. 
 
